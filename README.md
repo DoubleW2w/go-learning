@@ -12,3 +12,9 @@ go run ./01-helloworld/hello-world.go
 ```ps1
 go run ./02-values/values.go
 ```
+
+## 03-Variables
+
+```ps1
+go run ./03-Variables/03-variables.go
+```
