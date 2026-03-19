@@ -18,3 +18,9 @@ go run ./02-values/values.go
 ```ps1
 go run ./03-Variables/03-variables.go
 ```
+
+## 04-Constants
+
+```ps1
+go run ./04-Constants/04-constants.go
+```
