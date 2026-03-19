@@ -1,0 +1,4 @@
+在Go语言中，有很多数据类型， strings, integers, floats, booleans。
+字符串可以通过 + 连接。
+整数和浮点数
+布尔型，以及常见的布尔操作。
