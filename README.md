@@ -24,3 +24,9 @@ go run ./03-Variables/03-variables.go
 ```ps1
 go run ./04-Constants/04-constants.go
 ```
+
+## 05-ForAndIfElseAndSwitch
+
+```ps1
+go run ./05-ForAndIfElseAndSwitch/05-for-and-if-else-and-switch.go
+```
