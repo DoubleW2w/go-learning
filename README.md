@@ -30,3 +30,9 @@ go run ./04-Constants/04-constants.go
 ```ps1
 go run ./05-ForAndIfElseAndSwitch/05-for-and-if-else-and-switch.go
 ```
+
+## 06-Arrays
+
+```ps1
+go run ./06-Arrays/06-arrays.go
+```
