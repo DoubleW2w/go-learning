@@ -36,3 +36,9 @@ go run ./05-ForAndIfElseAndSwitch/05-for-and-if-else-and-switch.go
 ```ps1
 go run ./06-Arrays/06-arrays.go
 ```
+
+## 07-Slices
+
+```ps1
+go run ./07-Slices/07-slices.go
+```
