@@ -42,3 +42,9 @@ go run ./06-Arrays/06-arrays.go
 ```ps1
 go run ./07-Slices/07-slices.go
 ```
+
+## 08-Maps
+
+```ps1
+go run ./08-Maps/08-maps.go
+```
