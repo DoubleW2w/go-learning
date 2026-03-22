@@ -23,7 +23,8 @@ func main() {
 }
 
 func fact(n int) int {
-	if n == 1 {
+	// 有终止条件还不够，还要保证递归的方向
+	if n <= 1 {
 		fmt.Print("1")
 		return 1
 	}
